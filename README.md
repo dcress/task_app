@@ -2,7 +2,8 @@
 
 ## Try it out:
 
-### [Live Version](http://bambee.dancress.com)
+
+### <a href="http://bambee.dancress.com" target="_blank">Live Version</a>
 Feel free to poke around the 'live' version of the app on my site. 
 
 **Login Creds**: <br>
