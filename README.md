@@ -2,9 +2,14 @@
 
 ## Try it out:
 
-(Live Version)[bambee.dancress.com]
+### [Live Version](http://bambee.dancress.com)
+Login Creds: <br>  
+Email: test@test.com <br>
+Pass: password <br>
 
-### General Notes:
+## General
+
+### Notes:
 
 Thanks for checking out the Task App! I did my best to stay in the allotted time but did enjoy the process to I spent a skosh longer than I initially anticipated. Here are the things I used to build the app:
 
@@ -23,4 +28,5 @@ In the interest of trying to say as close to the recommended time as possible I 
 -   More extensive accessibility and screen reader testing
 -   Componentize button elements
 -   Better UI and interactivity
+-   Better mobile UX
 -   Additional sorting methods for tasks (currently they're stored by due date)
