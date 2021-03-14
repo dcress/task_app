@@ -3,7 +3,9 @@
 ## Try it out:
 
 ### [Live Version](http://bambee.dancress.com)
-Login Creds: <br>  
+Feel free to poke around the 'live' version of the app on my site. 
+
+**Login Creds**: <br>
 Email: test@test.com <br>
 Pass: password <br>
 
