@@ -33,3 +33,4 @@ In the interest of staying as close to the recommended time as possible I wasn't
 -   Better UI and interactivity
 -   Better mobile UX
 -   Additional sorting methods for tasks (currently they're stored by due date)
+-   Better empty states and view transitions
